@@ -1,0 +1,6 @@
+{
+  "name": "Cozy Knot · Handmade Crochet Studio",
+  "description": "Handcrafted crochet bouquets, whimsical keychains, and cozy gifts made with love in Dhubri. Real-time inventory and custom order requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

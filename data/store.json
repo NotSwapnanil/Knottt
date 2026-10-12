@@ -1,0 +1,302 @@
+{
+  "products": [
+    {
+      "id": "pastel-tulip-bouquet",
+      "title": "Pastel Dream Tulip Bouquet",
+      "subtitle": "Everlasting hand-knitted 9-stem pastel tulips",
+      "category": "bouquets",
+      "price": 699,
+      "originalPrice": 849,
+      "stock": 4,
+      "isSoldOut": false,
+      "interestsCount": 29,
+      "tags": [
+        "Bestseller",
+        "Milk Cotton",
+        "Gift Ready"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1582794543139-8ac9cb0f7b11?auto=format&fit=crop&w=800&q=80",
+      "colorOptions": [
+        "Pastel Mix",
+        "Blush Pink & White",
+        "Lilac & Butter Yellow"
+      ],
+      "description": "Delicately crocheted with ultra-soft milk cotton yarn. Features 9 vibrant yet gentle pastel tulips that never wilt. Wrapped in premium blush florist paper with a pearlescent white satin ribbon.",
+      "featured": true,
+      "createdAt": "2026-03-01T10:00:00Z"
+    },
+    {
+      "id": "rustic-sunflower-bouquet",
+      "title": "Rustic Sunshine Sunflower Bouquet",
+      "subtitle": "Textured golden sunflower with chamomile daisies in burlap",
+      "category": "bouquets",
+      "price": 599,
+      "originalPrice": 720,
+      "stock": 0,
+      "isSoldOut": true,
+      "interestsCount": 45,
+      "tags": [
+        "Most Loved",
+        "Sold Out",
+        "Signature Piece"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1597848212624-a19eb35e2651?auto=format&fit=crop&w=800&q=80",
+      "colorOptions": [
+        "Classic Sunflower",
+        "Sunflower & Baby Breath"
+      ],
+      "description": "Our signature golden sunflower handcrafted with textured seed stitch center, surrounded by dainty white daisies and wrapped in eco-friendly rustic jute burlap with a crimson bow.",
+      "featured": true,
+      "createdAt": "2026-03-02T10:00:00Z"
+    },
+    {
+      "id": "celestial-sun-moon",
+      "title": "Celestial Sun & Moon Keychain Duo",
+      "subtitle": "Spiral golden sun & midnight navy crescent pair",
+      "category": "keychains",
+      "price": 299,
+      "originalPrice": 349,
+      "stock": 5,
+      "isSoldOut": false,
+      "interestsCount": 22,
+      "tags": [
+        "Couple Set",
+        "Top Rated"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
+      "colorOptions": [
+        "Sun & Moon Duo",
+        "Solo Sun",
+        "Solo Moon"
+      ],
+      "description": "A cosmic pair! One radiant textured swirl sun with scalloped sunburst rays, and one deep night crescent moon with fine hand-stitched white constellation accents. Includes sturdy stainless keyrings.",
+      "featured": true,
+      "createdAt": "2026-03-03T10:00:00Z"
+    },
+    {
+      "id": "jellyfish-amigurumi-charm",
+      "title": "Pastel Jellyfish Ocean Charm",
+      "subtitle": "Whimsical baby jellyfish with flowing bouncy curly tentacles",
+      "category": "keychains",
+      "price": 249,
+      "originalPrice": 299,
+      "stock": 3,
+      "isSoldOut": false,
+      "interestsCount": 18,
+      "tags": [
+        "Cute Amigurumi",
+        "Bag Charm"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80",
+      "colorOptions": [
+        "Blush Pink & Cream",
+        "Deep Ocean & Snow",
+        "Lavender & Mint"
+      ],
+      "description": "Adorable bell-capped miniature jellyfish with bouncy spiraling tentacles. Includes silver swivel snap hook for tote bags or keychains.",
+      "featured": false,
+      "createdAt": "2026-03-04T10:00:00Z"
+    },
+    {
+      "id": "swirl-cake-roll-charm",
+      "title": "Sweet Patisserie Swirl Cake Keychain",
+      "subtitle": "Miniature Swiss roll dessert charm with bright cherry topper",
+      "category": "keychains",
+      "price": 199,
+      "originalPrice": 249,
+      "stock": 0,
+      "isSoldOut": true,
+      "interestsCount": 38,
+      "tags": [
+        "Dessert Series",
+        "Sold Out",
+        "Restock Soon"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=800&q=80",
+      "colorOptions": [
+        "Strawberry Swirl",
+        "Matcha Cream Swirl",
+        "Chocolate Cocoa"
+      ],
+      "description": "Sweet bakery treat lovers! Crocheted spiral roll cakes with piped cream layers and a sweet red cherry topper. Lightweight, soft and sturdy.",
+      "featured": true,
+      "createdAt": "2026-03-05T10:00:00Z"
+    },
+    {
+      "id": "double-cherry-charm",
+      "title": "Sweet Ruby Cherry Bag Charm",
+      "subtitle": "Plump dual red cherry pair with leafy stem & loop",
+      "category": "keychains",
+      "price": 179,
+      "originalPrice": 220,
+      "stock": 8,
+      "isSoldOut": false,
+      "interestsCount": 14,
+      "tags": [
+        "Trending",
+        "Under ₹200"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1528825871115-3581a5387919?auto=format&fit=crop&w=800&q=80",
+      "colorOptions": [
+        "Cherry Red & Sage"
+      ],
+      "description": "A delightful duo of plump deep red cherries crocheted on a sturdy forest green stalk with sculpted leaf. Perfect clip for tote bags, backpacks, and car keys.",
+      "featured": false,
+      "createdAt": "2026-03-06T10:00:00Z"
+    },
+    {
+      "id": "puffy-star-charm",
+      "title": "Sunshine Star Pocket Charm",
+      "subtitle": "Soft 3D dimensional star with textured center spiral",
+      "category": "keychains",
+      "price": 169,
+      "originalPrice": 199,
+      "stock": 6,
+      "isSoldOut": false,
+      "interestsCount": 12,
+      "tags": [
+        "Good Luck",
+        "Handmade"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+      "colorOptions": [
+        "Golden Yellow",
+        "Pastel Pink",
+        "Sky Blue"
+      ],
+      "description": "Warm buttercup yellow five-point star with a cozy spiral texture. Plumply stuffed with premium hypoallergenic fiberfill.",
+      "featured": false,
+      "createdAt": "2026-03-07T10:00:00Z"
+    },
+    {
+      "id": "plumeria-hair-clips",
+      "title": "Plumeria Blossom Hair Clip Set",
+      "subtitle": "Hand-crocheted tropical 5-petal flower clips (Pair)",
+      "category": "hair",
+      "price": 229,
+      "originalPrice": 280,
+      "stock": 3,
+      "isSoldOut": false,
+      "interestsCount": 26,
+      "tags": [
+        "Hair Aesthetic",
+        "Cottagecore"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=800&q=80",
+      "colorOptions": [
+        "Blush Pink & Cream Vanilla",
+        "Sunset Peach Pair"
+      ],
+      "description": "Pair of delicate blooming plumerias in peach blush and vanilla cream. Mounted on damage-free French snap clips for all-day hold without pulling hair.",
+      "featured": false,
+      "createdAt": "2026-03-08T10:00:00Z"
+    },
+    {
+      "id": "burgundy-knit-bow",
+      "title": "Burgundy Velvet Knit Hair Bow",
+      "subtitle": "Rich wine-red oversized hand-knitted ribbon hair bow",
+      "category": "hair",
+      "price": 189,
+      "originalPrice": 240,
+      "stock": 0,
+      "isSoldOut": true,
+      "interestsCount": 33,
+      "tags": [
+        "Coquette Style",
+        "Sold Out"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "colorOptions": [
+        "Deep Burgundy",
+        "Blush Rose",
+        "Espresso Brown"
+      ],
+      "description": "Hand-knit from soft merino-blend crimson yarn. Adds an effortless French coquette or cottagecore touch to half-up hairstyles or ponytails.",
+      "featured": false,
+      "createdAt": "2026-03-09T10:00:00Z"
+    },
+    {
+      "id": "solo-sunflower-burlap",
+      "title": "Solo Sunshine Burlap Stem",
+      "subtitle": "Statement single sunflower wrapped in rustic sackcloth & ribbon",
+      "category": "bouquets",
+      "price": 349,
+      "originalPrice": 399,
+      "stock": 4,
+      "isSoldOut": false,
+      "interestsCount": 16,
+      "tags": [
+        "Minimal Bouquet",
+        "Desk Decor"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1597848212624-a19eb35e2651?auto=format&fit=crop&w=800&q=80",
+      "colorOptions": [
+        "Crimson Bow",
+        "Cream Ribbon"
+      ],
+      "description": "A cheerful solitary sunflower wrapped neatly in authentic natural hessian burlap, finished with a scarlet satin ribbon. Stands beautifully in a bud vase or gift pouch.",
+      "featured": false,
+      "createdAt": "2026-03-10T10:00:00Z"
+    }
+  ],
+  "interests": [
+    {
+      "id": "int-1791740939811-jo5u",
+      "productId": "rustic-sunflower-bouquet",
+      "productTitle": "Rustic Sunshine Sunflower Bouquet",
+      "userName": "Test Visitor",
+      "contact": "@test",
+      "note": "Love this!",
+      "timestamp": "2026-10-11T17:48:59.811Z"
+    },
+    {
+      "id": "int-1",
+      "productId": "rustic-sunflower-bouquet",
+      "productTitle": "Rustic Sunshine Sunflower Bouquet",
+      "userName": "Aanya Sharma",
+      "contact": "@aanya_cozy",
+      "note": "Need 2 for my sister birthday next week please!",
+      "timestamp": "2026-10-11T12:48:49.946Z"
+    },
+    {
+      "id": "int-2",
+      "productId": "rustic-sunflower-bouquet",
+      "productTitle": "Rustic Sunshine Sunflower Bouquet",
+      "userName": "Priya Das",
+      "contact": "+91 98765 43210",
+      "note": "Whenever restocked let me know",
+      "timestamp": "2026-10-10T17:48:49.946Z"
+    },
+    {
+      "id": "int-3",
+      "productId": "swirl-cake-roll-charm",
+      "productTitle": "Sweet Patisserie Swirl Cake Keychain",
+      "userName": "Rhea Sen",
+      "contact": "@rhea_crochet",
+      "note": "Matcha green one please!!",
+      "timestamp": "2026-10-11T05:48:49.946Z"
+    },
+    {
+      "id": "int-4",
+      "productId": "burgundy-knit-bow",
+      "productTitle": "Burgundy Velvet Knit Hair Bow",
+      "userName": "Megha",
+      "contact": "@meghak",
+      "note": "Loved the wine shade",
+      "timestamp": "2026-10-09T17:48:49.946Z"
+    }
+  ],
+  "inquiries": [
+    {
+      "id": "inq-1",
+      "customerName": "Ankita Roy",
+      "contact": "@ankita_r",
+      "productInterest": "Custom Birthday Bouquet",
+      "colorPreference": "Pastel Lilac & Butter Yellow",
+      "deadline": "2026-10-25",
+      "message": "Can you do a mix of 5 lavender tulips and 3 daisies?",
+      "status": "new",
+      "timestamp": "2026-10-11T09:48:49.946Z"
+    }
+  ]
+}
